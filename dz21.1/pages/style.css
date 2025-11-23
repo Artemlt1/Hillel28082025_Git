@@ -1,0 +1,27 @@
+p {
+  color: yellow;
+  font-size: 40px;
+}
+
+.menu {
+  display: flex;
+  justify-content: flex-end;
+  gap: 1rem;
+  padding: 1rem;
+  background-color: #313947;
+}
+
+.menu a {
+  color: #fff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.menu a:hover {
+  color: #63b3ed;
+}
+
+body {
+  background-color: #000;
+  margin: 0;
+}
